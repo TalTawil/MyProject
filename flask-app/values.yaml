@@ -1,8 +1,5 @@
 replicaCount: 1
 
-metadata:
-  namespace: myproject
-
 image:
   repository: 434339890453.dkr.ecr.eu-central-1.amazonaws.com/myproject
   pullPolicy: Always
